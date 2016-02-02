@@ -1,0 +1,28 @@
+name: CritTV
+favicon: null
+layout_spectrum: 0.45665399660356343
+typography_spectrum: 0.5416372499894351
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.25879545556381345
+  lightness: 0.0035634494852274656
+  saturation: 0.038116722367703915
+  rhythmicContrast: 0.5029890541918576
+purpose: []
